@@ -16,7 +16,7 @@ Each item contains the following keys:
 
 ## How to Run the File: 
 
-First, set up the virtual environment and install dependencies:
+First, set up the virtual environment (if needed) and install dependencies:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
